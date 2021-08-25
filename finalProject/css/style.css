@@ -1,0 +1,162 @@
+body{
+    direction: rtl;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    
+}
+.text-right {
+    text-align: right!important;
+}
+.bg{
+    background: #e7f5f1
+}
+.bg-danger {
+    background-color: #dc3545!important;
+}
+.bloodlogo{
+    position: relative;
+    left: 600px;
+    margin-top: .25rem!important;
+    margin-left: .5rem!important;
+}
+.blood {
+    position: relative;
+    height: 34px;
+    width: 34px;
+    right: 205px;
+    bottom: -6px;
+}
+.brandtext{
+    font-family: 'Cairo', sans-serif;
+    color: #fff;
+    font-weight: bolder;
+}
+.alai-logo{
+    position: relative;
+    right: -300px;
+}
+.navbar-nav>li {
+    padding-right: 10px;
+    position: relative;
+    left: -151px;
+    bottom: -15px;
+    font-size: 18px;
+}
+ul{
+    list-style: none;
+}
+.col-sm-6{
+    float: right;
+    max-width: 50%;
+    position: relative;
+    top: -21px;
+
+}
+.font{
+    font-family: 'Cairo', sans-serif;
+}
+.text-danger {
+    color: #dc3545!important;
+}
+.font-weight-bold {
+    font-weight: 700!important;
+}
+.text-center {
+    text-align: center!important;
+}
+.h2, h2 {
+    font-size: 4rem;
+}
+.text{
+    margin-top: 24px;
+    color: rgb(33, 37, 41);
+    line-height: 19.2px;
+    font-size: 16px;
+    font-weight: 500;
+    display: block;
+    margin-block-end: 24px;
+    margin-block-start: 24px;
+    text-align: center;
+    text-size-adjust: 100%;
+}
+.cust-text{
+    color: rgb(52, 58, 64);
+    font-size: 20px;
+    line-height: 24px;
+    margin-block-end: 16px;
+    margin-block-start: 48px;
+    margin-bottom: 16px;
+}
+.cust-text2{
+    color: rgb(52, 58, 64);
+    font-size: 16px;
+    line-height: 19.2px;
+    margin-block-end: 16px;
+    margin-bottom: 16px;
+}
+.cust-but{
+    justify-content: center;
+    display: flex;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+    margin-left: 8px;
+    margin-top: 16px;
+    text-align: right;
+    text-size-adjust: 100%;
+}
+.cust-but2{
+    flex-direction: column!important;
+    display: flex!important;
+}
+.cust-but3{
+    background: #fff;
+    color: #dc3545;
+    cursor: pointer;
+    padding: 20px 0px;
+    font-weight: 700;
+    transition: all 0.3s;
+    width: 200px;
+    border: 3px solid #fff;
+    align-items: flex-start;
+    margin-bottom: 4px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 4px;
+}
+.cust-img{
+    height: 100%;
+    width: 200px;
+}
+.btn-1a:hover, .btn-1a:active {
+    color: #fff;
+    background: #dc3545;
+  }
+  .cust-my-4{
+    font-size: 24px;
+  }
+  .cust-col-sm-4{
+    position: relative;
+    left: -100px;
+  }
+  .cust-foot{
+    bottom: 0px;
+    position: relative;
+    padding-bottom: .5rem!important;
+    padding-top: .5rem!important;
+    z-index: 10000;
+    /*position: relative;
+    top: 255px;*/
+  }
+  .cust-p{
+    margin: 0!important;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+  }
+  
+

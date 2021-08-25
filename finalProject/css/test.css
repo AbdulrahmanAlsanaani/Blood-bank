@@ -1,0 +1,232 @@
+.font {
+  font-family: 'Cairo', sans-serif;
+}
+
+a {
+  text-decoration: none !important;
+}
+.bd-navbar {
+  min-height: 1rem;
+  max-height: 50px;
+}
+.bd-navbar .navbar-nav-svg {
+  display:flex;
+  height: 1rem;
+  width: 1rem;
+}
+.blood{
+  height: 34px;
+  width: 34px;
+}
+.bg{
+  background: #e7f5f1;
+}
+
+.btn-1a:hover, .btn-1a:active {
+  color: #fff;
+  background: #dc3545;
+}
+.btn-1 {
+  border: 3px solid #fff;
+  color: #fff;
+}
+.btn-custom {
+  background: #fff;
+  color: #dc3545;
+  cursor: pointer;
+  padding: 20px 0px;
+  font-weight: 700;
+  transition: all 0.3s;
+  width: 200px;
+}
+.btn-sm {
+  background: #fff;
+  color: #dc3545;
+  cursor: pointer;
+  padding: 15px;
+  font-weight: 700;
+  transition: all 0.3s;
+}
+.goog{
+  height: 100%;
+  width: 200px
+}
+.card-margin{
+  margin-bottom:5px;
+}
+#modal .section-title {
+  margin-bottom: 42px;
+}
+
+#modal2 .section-title {
+  margin-bottom: 42px;
+}
+
+#donor_info .section-title {
+  margin-bottom: 42px;
+}
+#add_comments .section-title {
+  margin-bottom: 42px;
+}
+#comments .section-title {
+  margin-bottom: 42px;
+}
+.icon,
+.modal-toggle .icon {
+  color: #fff;
+  display: inline-block;
+  font-size: 18px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  text-decoration: none;
+  width: 36px;
+  -webkit-transition:	all 0.3s ease;
+  -moz-transition:	all 0.3s ease;
+  transition:			all 0.3s ease;
+}
+
+.icon:hover,
+.modal-toggle .icon:hover {
+  color: #fff;
+}
+
+.icon,
+.modal-toggle .icon,
+#bg-video-controls .fa {
+  color: #fff;
+  display: inline-block;
+  font-size: 18px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  text-decoration: none;
+  width: 36px;
+  -webkit-transition:	all 0.3s ease;
+  -moz-transition:	all 0.3s ease;
+  transition:			all 0.3s ease;
+}
+
+.icon:hover,
+.modal-toggle .icon:hover,
+#bg-video-controls .fa:hover {
+  color: rgba(0,0,125,0.3);
+}
+.inner {
+  margin: 0 auto;
+  padding: 42px 24px;
+}
+
+#main {
+  position: relative;
+}
+
+#main .inner {
+  max-width: 816px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+#modal {
+  display: none;
+  left: 0;
+  min-height: 100%;
+  position: relative;
+  right: 0;
+  top: 0;
+  z-index: 997;
+}
+
+#modal2 {
+  display: none;
+  left: 0;
+  min-height: 100%;
+  position: relative;
+  right: 0;
+  top: 0;
+  z-index: 997;
+}
+
+#donor_info {
+  display: none;
+  background: #e7f5f1;
+  left: 0;
+  min-height: 100%;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 997;
+}
+
+#add_comments{
+  display: none;
+  background: #e7f5f1;
+  left: 0;
+  min-height: 100%;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 997;
+}
+
+#comments {
+  display: none;
+  left: 0;
+  min-height: 100%;
+  position: relative;
+  right: 0;
+  top: 0;
+  z-index: 997;
+}
+
+#modal2 .inner {
+  max-width: 612px;
+}
+#add_comments .inner {
+  max-width: 612px;
+}
+#comments .inner {
+  max-width: 612px;
+}
+
+#modal .inner {
+  max-width: 812px;
+}
+#main .modal-toggle {
+  margin: 50px 0px;
+  left: 0;
+
+  text-align: center;
+  width: 100%;
+}
+
+.modal-note ,.modal2-note, .donor_info ,.comments ,.add_comments{
+  color: #dadada;
+  display: block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#modal .modal-toggle  {
+  margin-bottom: 42px;
+  text-align: center;
+}
+
+#modal2 .modal-toggle  {
+  margin-bottom: 42px;
+  text-align: center;
+}
+
+#donor_info  .modal-toggle  {
+  margin-bottom: 42px;
+  text-align: center;
+}
+#add_comments  .modal-toggle  {
+  margin-bottom: 42px;
+  text-align: center;
+}
+#comments .modal-toggle  {
+  margin-bottom: 42px;
+  text-align: center;
+}

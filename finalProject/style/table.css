@@ -1,0 +1,31 @@
+.containt{
+    direction:rtl; 
+    margin: 100px 200px 100px 300px;
+    width: 700px;
+    box-shadow: 0px 0px 15px 0px #D6D6D6;
+}
+.table {
+    width: 100%;
+    margin-top: 2rem;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.table thead th {
+    text-transform: uppercase;
+    padding: 0.8rem;
+}
+
+.table tbody tr td {
+    color:#000;
+    padding: 0.8rem 1.2rem;
+    text-align: center;
+}
+
+.table tbody tr td:first-child {
+    text-align: left;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: rgb(233, 164, 164);
+}
